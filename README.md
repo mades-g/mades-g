@@ -1,4 +1,4 @@
-👋 Hi, I’m Eudes
+👋 Hi, I'm Eudes
 
 Product-focused software engineer with a frontend lean, building reliable, well-tested user-facing systems with React and TypeScript, and contributing beyond the UI when needed.
 
@@ -14,14 +14,14 @@ Product-focused software engineer with a frontend lean, building reliable, well-
 - Testing from unit to end-to-end, with CI/CD as part of the workflow
 - System-aware thinking across frontend, backend, and infrastructure
 
-📦 **Current project**  
+📦 **Current project**
 Precious Petals CRM — bespoke CRM built with TypeScript and Go
 
-🌱 **Future project**  
+🌱 **Future project**
 Local Tea — a product focused on local stories, history, and discovery
 
-🎯 **Interests**  
+🎯 **Interests**
 Debugging and problem-solving · system design · product thinking · testing · learning new skills · skateboarding · violin
 
-📍 Portugal & UK  
+📍 Portugal & UK
 💼 Frontend / frontend-leaning full-stack roles
