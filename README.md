@@ -1,6 +1,6 @@
 👋 Hi, I’m Eudes — aka ED, aka Odo (for French speakers 🇫🇷)
 
-Product-focused software engineer with a frontend lean, building reliable, well-tested user-facing systems with React and TypeScript, and contributing beyond the UI when needed.
+Product-focused software engineer with a frontend (mobile and web) lean, building reliable, well-tested user-facing systems with React and Typescript, and contributing beyond the UI when needed.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-strong-blue)
 ![React](https://img.shields.io/badge/React-primary-61dafb)
@@ -18,7 +18,7 @@ Product-focused software engineer with a frontend lean, building reliable, well-
 Precious Petals CRM — bespoke CRM built with TypeScript and Go
 
 🌱 **Future project**  
-Local Tea — a product focused on local stories, history, and discovery
+Local Tea — a mobile focused on local stories, history, and discovery
 
 🎯 **Interests**  
 Debugging and problem-solving · system design · product thinking · testing · learning new skills · skateboarding · violin
