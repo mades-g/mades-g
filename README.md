@@ -17,9 +17,6 @@ Product-focused software engineer with a frontend (mobile and web) lean, buildin
 📦 **Current project**  
 Precious Petals CRM — bespoke CRM built with TypeScript and Go
 
-🌱 **Future project**  
-Local Tea — a mobile focused on local stories, history, and discovery
-
 🎯 **Interests**  
 Debugging and problem-solving · system design · product thinking · testing · learning new skills · skateboarding · violin
 
